@@ -1,4 +1,5 @@
-//简单工厂模式，以生产水果为例。
+//简单工厂模式
+//以生产水果为例。
 
 #include <iostream>
 #include <string>
