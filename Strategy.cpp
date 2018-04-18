@@ -1,4 +1,5 @@
-//策略模式，以商品打折为例。
+//策略模式
+//以商品打折为例。
 
 #include <iostream>
 #include <string>
