@@ -1,5 +1,6 @@
 //抽象工厂模式，以组装一台电脑为例。
 
+
 #include <iostream>
 
 using namespace std;
