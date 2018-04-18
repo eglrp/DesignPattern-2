@@ -1,4 +1,5 @@
-//代理模式，以代购为例。
+//代理模式
+//以代购为例。
 
 #include <iostream>
 #include <string>
